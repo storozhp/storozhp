@@ -12,6 +12,7 @@ Hi there! I'm **Petro**, a Web Developer passionate about web developing, softwa
 
 - [**My CV**](https://storozhp.github.io/web-cv/)
 - [**Email**](mailto:petro.storozhukk1@gmail.com)
+- [**LinkedIn**](https://www.linkedin.com/in/storozh-p/)
 
 ## 📊 GitHub Stats
 
