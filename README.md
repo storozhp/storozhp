@@ -4,9 +4,9 @@ Hi there! I'm **Petro**, a Web Developer passionate about web developing, softwa
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: Python, JavaScript
-- **Frameworks**: Angular, FastAPI
-- **Tools**: Git, Figma, SQL, VS Code
+- **Languages**: Python, JavaScript, TypeScript
+- **Frameworks**: Angular, React, FastAPI
+- **Tools**: Git, Figma, SQL, VS Code, Docker
 
 ## 📫 Get in Touch
 
