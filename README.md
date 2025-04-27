@@ -16,6 +16,6 @@ Hi there! I'm **Petro**, a Web Developer passionate about web developing, softwa
 
 ## 📊 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=storozhp&show_icons=true&theme=minimal)](https://github.com/storozhp)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=storozhp&show_icons=true&theme=dracula)](https://github.com/storozhp)
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or just want to connect!
